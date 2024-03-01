@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Katelyn A. Yu"
+title                    : "Katelyn Yu"
 title_separator          : "-"
 name                     : &name "Katelyn Yu"
 description              : &description "Emissions Expert"
@@ -21,10 +21,10 @@ repository               : "katelynayu/katelynayu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "prof_pic.png"
   name             : "Katelyn Yu"
   pronouns         : # example: "she/her"  
-  bio              : "Emissions Expert, PhD Candidate @ UC Berkeley, Former NOAA and NASA intern, NSF Fellow"
+  bio              : "Emissions Expert <br/><br/>PhD Candidate @ UC Berkeley <br/><br/>Former NOAA and NASA intern<br/><br/>NSF Fellow"
   location         : "San Francisco Bay Area"
   employer         : "UC Berkeley"
   uri              : # URL
