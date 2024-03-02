@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I'm a PhD candidate in Environmental Engineering (Air Quality specialty) at UC Berkeley. Currently in the final stages of my doctoral journey, I am actively seeking exciting opportunities and challenging roles that align with my expertise starting from June 2024. "
 author_profile: true
 redirect_from: 
   - /about/
