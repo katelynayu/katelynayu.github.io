@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "I'm a PhD candidate in Environmental Engineering (Air Quality specialty) at UC Berkeley. Currently in the final stages of my doctoral journey, I am actively seeking exciting opportunities and challenging roles that align with my expertise starting from June 2024. "
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I'm a PhD candidate in Environmental Engineering (Air Quality specialty) at UC Berkeley. Currently in the final stages of my doctoral journey, I am actively seeking exciting opportunities and challenging roles that align with my expertise starting from June 2024. 
+I'm an emissions inventory expert and PhD candidate in Environmental Engineering (Air Quality specialty) at UC Berkeley. Currently in the final stages of my doctoral journey, I am actively seeking exciting opportunities and challenging roles that align with my expertise starting from June 2024. 
 
 My research and career goals are driven by a larger vision of sustainable solutions for mitigating air pollution's impact on climate and public health. My current research is focused on building and evaluating anthropogenic emissions inventories in the vehicle sector. I have previously worked on research involving wildfire smoke prediction, atmosphere-biosphere dynamics, and inverse modeling of oil and gas emissions. My broader interests are in:
 
